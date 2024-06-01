@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(46, 50, 80);
+}
+h1,p,pre{
+    text-align: center;
+    color: white;
+}
+table,tr,th,td{
+    border:solid 2.5px black;
+    margin:auto;
+    padding: 10px;
+
+}
+#amarelo{
+    border-color: yellow;
+    color: yellow;
+}
+#verde_claro{
+    border-color: greenyellow;
+    color: greenyellow;
+}
+#azul_claro{
+    border-color: rgb(69, 140, 235);
+    color: rgb(69, 140, 235);
+}
+#laranja{
+    border-color: lightsalmon;
+    color: lightsalmon;
+}
+table{
+    border: hidden;
+    
+}
+tr{
+    height: 60px;
+
+}
+td{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
